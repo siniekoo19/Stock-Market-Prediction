@@ -93,6 +93,8 @@ This project involves the application of machine learning algorithms and statist
 - sklearn
 - matplotlib
 - seaborn
+- ARIMA
+- LSTM
 
 
 ## Authors
